@@ -6,7 +6,7 @@ const path = require('path');
 const EMAIL_REGEX = /[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}/g;
 
 // HR-related email prefixes (prioritized over info@)
-// const HR_PREFIXES = ['hr@', 'recruitment@', 'careers@', 'career@', 'humanresource@', 'humanresources@', 'talent@', 'hiring@', 'jobs@', 'job@', 'staffing@', 'people@', 'vacancies@', 'vacancy@', 'employ@', 'employment@'];
+const HR_PREFIXES = ['hr@', 'recruitment@', 'careers@', 'career@', 'humanresource@', 'humanresources@', 'talent@', 'hiring@', 'jobs@', 'job@', 'staffing@', 'people@', 'vacancies@', 'vacancy@', 'employ@', 'employment@'];
 const INFO_PREFIXES = ['sales@', 'company@', 'company.kenya@', 'companyinitials@', 'contact@', 'contactcentre@'.'contactcentrekenya@', 'customerservice@', 'contactus@', 'headoffice@', 'talk-us@', 'letstalk'];
 
 // Prefixes to SKIP — not useful for job applications

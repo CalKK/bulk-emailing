@@ -717,7 +717,7 @@ function App() {
 
       {/* Footer */}
       <footer style={{ textAlign: 'center', marginTop: 40, color: 'var(--text-muted)', fontSize: 12 }}>
-{/* <p>Built by Calvin Kinyanjui • Strathmore University • {new Date().getFullYear()}</p> */}
+      <p>Built by Calvin Kinyanjui • Strathmore University • {new Date().getFullYear()}</p> 
       </footer>
     </div>
   );

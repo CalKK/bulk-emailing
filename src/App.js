@@ -6,7 +6,7 @@ const EMAIL_TEMPLATE = `Dear Sir/Madam,
 
 I trust this message finds you well.
 
-I go by the name of Calvin Kinyanjui. I write this email with the view to lodge an application seeking a free Master of Ceremonies service at [Institution] corporate events.
+I go by the name of Calvin Kinyanjui. I write this email with the view to lodge an application seeking a free Master of Ceremonies service at [Institution]'s corporate events.
 
 Kindly find attached below my contact details card.
 

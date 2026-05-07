@@ -6,7 +6,7 @@ const EMAIL_TEMPLATE = `Dear Sir/Madam,
 
 I trust this message finds you well.
 
-I go by the name of Calvin Kinyanjui. I write this email with the view to lodge an application seeking a free Master of Ceremonies service at [Institution]'s corporate events.
+I go by the name of Calvin Kinyanjui. I write this email with the view to lodge an application seeking a free Master of Ceremony service at [Institution]'s corporate events.
 
 Kindly find attached below my contact details card.
 
@@ -15,7 +15,7 @@ In case of any queries, don't hesitate to reach out.
 Thank you & Kind Regards!`;
 
 
-const DEFAULT_SUBJECT = 'Master of Ceremonies (MC) for your Corporate Events for free - Calvin Kinyanjui';
+const DEFAULT_SUBJECT = 'Master of Ceremony (MC) for your Corporate Events for free - Calvin Kinyanjui';
 const DEFAULT_SENDER = 'calvinkinyanjui017@gmail.com';
 
 function App() {
